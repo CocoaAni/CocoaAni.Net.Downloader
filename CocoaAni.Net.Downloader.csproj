@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>net6.0</TargetFramework>
+	  <ImplicitUsings>enable</ImplicitUsings>
+	  <Nullable>enable</Nullable>
+	  <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	  <Title>CocoaAni.Net.Downloader</Title>
+	  <Version>0.0.1</Version>
+	  <Authors>CocoaAni</Authors>
+	  <Company>CocoaAni</Company>
+	  <Description>CocoaAni.Net.Downloader </Description>
+	  <Copyright>CocoaAni</Copyright>
+	  <PackageIcon>CocoaAni128x128.png</PackageIcon>
+	  <AssemblyVersion>0.0.1</AssemblyVersion>
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+	  <IncludeSymbols>True</IncludeSymbols>
+	  <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CocoaAni.Files.Http" Version="0.0.1" />
+    <PackageReference Include="CocoaAni.Files.M3U8" Version="0.0.1" />
+  </ItemGroup>
+
+</Project>

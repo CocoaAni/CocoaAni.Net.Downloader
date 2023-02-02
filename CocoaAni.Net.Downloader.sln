@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CocoaAni.Net.Downloader", "CocoaAni.Net.Downloader.csproj", "{9B20AEBE-74A3-47FD-BD3A-93D29446191D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B20AEBE-74A3-47FD-BD3A-93D29446191D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B20AEBE-74A3-47FD-BD3A-93D29446191D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B20AEBE-74A3-47FD-BD3A-93D29446191D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B20AEBE-74A3-47FD-BD3A-93D29446191D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33607C2D-58CF-40F1-883A-D88D846AA3D2}
+	EndGlobalSection
+EndGlobal
